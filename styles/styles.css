@@ -74,11 +74,11 @@ body {
     padding: 1rem;
 }
 
-.background-container {
+div .background-container {
     background-color: gainsboro;
 }
 
-.background-text {
+div .background-text {
     background-color: white;
 }
 
