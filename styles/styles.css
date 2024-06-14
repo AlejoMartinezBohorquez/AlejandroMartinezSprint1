@@ -85,3 +85,8 @@ div .background-text {
 caption {
     caption-side: top;
 }
+
+.container-details {
+    height: 450px;
+}
+
